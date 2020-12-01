@@ -21,7 +21,7 @@ Measure the resistance of the potentiometers/slider to determine where you're go
 
 Finally when things become hard and you run out of patience, switch to something else and come back when you feel like it, you don't want to overreact while holding the soldering iron...
 
-![Schematic](https://raw.githubusercontent.com/misterimo/deej/main/schematics%20v2.jpg?token=AR5P3NNWJIV7XT7YMHFCVIS7Y2BI6) This is the schematics that works with my code, for the ones with OCD forgive my non organised Inputs/Outputs, it was difficult for me to fix it once everything was inside the box.
+![Schematic](https://github.com/misterimo/deej/blob/main/schematics%20v2.jpg) This is the schematics that works with my code, for the ones with OCD forgive my non organised Inputs/Outputs, it was difficult for me to fix it once everything was inside the box.
 
 
 # Code:
