@@ -4,7 +4,7 @@ Welcome to this repository where i share my experience making a DIY sound mixing
 In this repo i'll share some picture of the result, the schematics and the program to make your own, i'll also give you some advices onto the difficulties i've encountred while making mine.
 
 # Pictures:
-![Box Used](https://raw.githubusercontent.com/misterimo/deej/main/Pictures/box%20used.jpg?token=AR5P3NKYYGHY6X73545OVD27YZ7DI) I used a calliper box (that i opened the bottom of it) for this build
+![Box Used](https://github.com/misterimo/deej/blob/main/Pictures/box%20used.jpg) I used a calliper box (that i opened the bottom of it) for this build
 
 ![Side view](https://raw.githubusercontent.com/misterimo/deej/main/Pictures/side%20view.jpg?token=AR5P3NPEZDWMC7XPHRDFJXC7YZ7WA) To elevate the box a little bit for the cable, i used small leg chair pads
 
