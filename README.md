@@ -4,4 +4,4 @@ Welcome to this repository where i share my experience making a DIY sound mixing
 In this repo i'll share some picture of the result, the schematics and the program to make your own, i'll also give you some advices onto the difficulties i've encountred while making mine.
 
 # Pictures:
-(Pictures/box used.jpg) I used a calliper box for this builde
+(.Pictures/box used.jpg) I used a calliper box for this builde
