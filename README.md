@@ -6,11 +6,11 @@ In this repo i'll share some picture of the result, the schematics and the progr
 # Pictures:
 ![Box Used](https://github.com/misterimo/deej/blob/main/Pictures/box%20used.jpg) I used a calliper box (that i opened the bottom of it) for this build
 
-![Side view](https://raw.githubusercontent.com/misterimo/deej/main/Pictures/side%20view.jpg?token=AR5P3NPEZDWMC7XPHRDFJXC7YZ7WA) To elevate the box a little bit for the cable, i used small leg chair pads
+![Side view](https://github.com/misterimo/deej/blob/main/Pictures/side%20view.jpg) To elevate the box a little bit for the cable, i used small leg chair pads
 
-![Top view](https://raw.githubusercontent.com/misterimo/deej/main/Pictures/top%20view.jpg?token=AR5P3NPMFRH27XVUEBLFT3S7YZ76G) I took the knobs and potentiometers from an old broken stereo, the combination of chrome painted plastic and wood looks cool...
+![Top view](https://github.com/misterimo/deej/blob/main/Pictures/top%20view.jpg) I took the knobs and potentiometers from an old broken stereo, the combination of chrome painted plastic and wood looks cool...
 
-![guts](https://raw.githubusercontent.com/misterimo/deej/main/Pictures/guts.jpg?token=AR5P3NN56DBHZFUHMM2LP4S7Y2AFI) ... What doesn't look cool is the guts of the box, i'm still a beginner when it comes to soldering and learned a lot from this build.
+![guts](https://github.com/misterimo/deej/blob/main/Pictures/guts.jpg) ... What doesn't look cool is the guts of the box, i'm still a beginner when it comes to soldering and learned a lot from this build.
 
 # Schematics and tips:
 Speaking of soldering i found it easier to work with rigid cables (you can get them from ethernet cables), also to make it easier for you always put some solder on both the ends before trying to solder them.
