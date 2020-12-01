@@ -25,4 +25,4 @@ Finally when things become hard and you run out of patience, switch to something
 
 
 # Code:
-Check the [Deejimo.ino](https://github.com/misterimo/deej/blob/main/Deejimo.ino) file to get the code i used, i left some comments to explain the "weird" lines
+Check the ![Deejimo.ino](https://github.com/misterimo/deej/blob/main/Deejimo.ino) file to get the code i used, i left some comments to explain the "weird" lines
